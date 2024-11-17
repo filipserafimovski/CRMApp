@@ -12,3 +12,7 @@ C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\refi
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\CRM.Infrastructure.pdb
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\CRM.Infrastructure.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\ref\CRM.Infrastructure.dll
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\bin\Debug\net8.0\CRM.Domain.dll
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\bin\Debug\net8.0\CRM.Domain.pdb
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\CRM.Infrastructure.sourcelink.json
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.Infrastructure\obj\Debug\net8.0\CRM.Infr.2D6F64BC.Up2Date

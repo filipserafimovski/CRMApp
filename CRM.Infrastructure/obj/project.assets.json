@@ -1559,6 +1559,16 @@
             "rid": "win"
           }
         }
+      },
+      "CRM.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CRM.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.Domain.dll": {}
+        }
       }
     }
   },
@@ -4179,10 +4189,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CRM.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CRM.Domain/CRM.Domain.csproj",
+      "msbuildProject": "../CRM.Domain/CRM.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CRM.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0"
@@ -4215,7 +4231,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\CRM.WebApp\\CRM.Domain\\CRM.Domain.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CRM.WebApp\\CRM.Domain\\CRM.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -137,3 +137,6 @@ C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\obj\Debug\net8.0\refint\CRM.W
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\obj\Debug\net8.0\CRM.WebApp.pdb
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\obj\Debug\net8.0\CRM.WebApp.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\obj\Debug\net8.0\ref\CRM.WebApp.dll
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\bin\Debug\net8.0\CRM.Domain.dll
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\bin\Debug\net8.0\CRM.Domain.pdb
+C:\Users\Lenovo\source\repos\CRM.WebApp\CRM.WebApp\obj\Debug\net8.0\CRM.WebApp.sourcelink.json
