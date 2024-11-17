@@ -1,0 +1,19 @@
+# .NET Core
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js (if applicable)
+node_modules/
+
+# NPM
+package-lock.json
